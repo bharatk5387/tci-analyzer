@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pandas==2.2.2
+pyarrow==16.1.0
+openpyxl==3.1.5
+python-dateutil==2.9.0.post0
